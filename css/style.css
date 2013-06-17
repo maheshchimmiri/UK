@@ -68,8 +68,8 @@ p {margin-bottom:18px;}
 .map-border {border:1px solid #e5e5e5; background:#fff; padding:1px; float:left;}
 
 /*********************************boxes**********************************/
-.indent-top {padding-top:25px;}
-.indent-top2 {padding-top:50px;}
+.indent-top {padding-top:0px;}
+.indent-top2 {padding-top:91px;}
 .indent-top3 {padding-top:13px;}
 .indent-left {padding-left:10px;}
 .indent-left2 {padding-left:60px;}
@@ -320,8 +320,8 @@ h6 {color:#ed1e24; margin-bottom:7px;}
 	.button a:hover {color:#000;}
 	
 .button-2 {
-	display:inline-block; 
-	padding-bottom:5px;
+	 
+	padding-bottom:25px;
 	background:url(../images/button2-shadow.png) center bottom no-repeat;
 	cursor:pointer;
 }
