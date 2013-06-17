@@ -130,7 +130,7 @@ h1 {
 .menu li {
 	float:left; 
 	position:relative;
-	padding-left:28px;
+	padding-left:23px;
 }
 .menu li a {
 	display:inline-block; 
@@ -322,7 +322,7 @@ h6 {color:#ed1e24; margin-bottom:7px;}
 .button-2 {
 	 
 	padding-bottom:25px;
-	background:url(../images/button2-shadow.png) center bottom no-repeat;
+	
 	cursor:pointer;
 }
 	.button-2 a {
